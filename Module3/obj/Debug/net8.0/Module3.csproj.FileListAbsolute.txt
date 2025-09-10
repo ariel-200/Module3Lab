@@ -1,0 +1,15 @@
+/workspaces/Module3Lab/Module3/obj/Debug/net8.0/Module3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module3Lab/Module3/obj/Debug/net8.0/Module3.AssemblyInfoInputs.cache
+/workspaces/Module3Lab/Module3/obj/Debug/net8.0/Module3.AssemblyInfo.cs
+/workspaces/Module3Lab/Module3/obj/Debug/net8.0/Module3.csproj.CoreCompileInputs.cache
+/workspaces/Module3Lab/Module3/obj/Debug/net8.0/Module3.sourcelink.json
+/workspaces/Module3Lab/Module3/bin/Debug/net8.0/Module3
+/workspaces/Module3Lab/Module3/bin/Debug/net8.0/Module3.deps.json
+/workspaces/Module3Lab/Module3/bin/Debug/net8.0/Module3.runtimeconfig.json
+/workspaces/Module3Lab/Module3/bin/Debug/net8.0/Module3.dll
+/workspaces/Module3Lab/Module3/bin/Debug/net8.0/Module3.pdb
+/workspaces/Module3Lab/Module3/obj/Debug/net8.0/Module3.dll
+/workspaces/Module3Lab/Module3/obj/Debug/net8.0/refint/Module3.dll
+/workspaces/Module3Lab/Module3/obj/Debug/net8.0/Module3.pdb
+/workspaces/Module3Lab/Module3/obj/Debug/net8.0/Module3.genruntimeconfig.cache
+/workspaces/Module3Lab/Module3/obj/Debug/net8.0/ref/Module3.dll
